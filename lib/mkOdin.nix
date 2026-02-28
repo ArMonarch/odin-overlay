@@ -12,7 +12,7 @@ stdenvNoCC.mkDerivation {
   pname = "odin";
   inherit version;
 
-  src = fetchTarball {
+  src = builtins.fetchTarball {
     inherit url sha256;
   };
 
@@ -38,7 +38,7 @@ stdenvNoCC.mkDerivation {
     description = "The Odin programming language (prebuilt binary)";
     homepage = "https://odin-lang.org";
     license = lib.licenses.bsd3;
-    platforms = ["x86_64-linux" "aarch64-linux" "x86_64-darwin" "aarch64-darwin"];
+    platforms = ["x86_64-linux" "aarch64-linux"];
     mainProgram = "odin";
   };
 }

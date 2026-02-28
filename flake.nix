@@ -12,7 +12,7 @@
   }: let
     pkgs = import nixpkgs {
       system = "x86_64-linux";
-      overlays = [self.overlays.odin-overlay];
+      overlays = [self.overlays.odin-overlay self.overlays.ols-overlay];
     };
   in {
     overlays = import ./overlays/default.nix {
@@ -21,5 +21,6 @@
     };
 
     packages."x86_64-linux".odin = pkgs.odin-bin."dev-2026-02".latest;
+    packages."x86_64-linux".ols = pkgs.ols-bin."dev-2026-02".latest;
   };
 }

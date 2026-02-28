@@ -1,17 +1,8 @@
-{self, ...}: {
+{...}: {
   odin-overlay = final: prev: let
     mkOdin = prev.callPackage ../lib/mkOdin.nix;
     sources = builtins.fromJSON (builtins.readFile ../sources/odin.json);
     system = prev.stdenv.hostPlatform.system;
-
-    latest = let
-      version = builtins.head (builtins.attrNames sources);
-      url = sources.${version}.${system}.url;
-      sha256 = sources.${version}.${system}.sha256;
-    in
-      mkOdin {
-        inherit version url sha256;
-      };
 
     allVersions =
       builtins.mapAttrs (
@@ -29,8 +20,30 @@
       )
       sources;
   in {
-    odin-bin = {inherit latest;} // allVersions;
+    odin-bin = allVersions;
   };
 
-  default = self.overlays.odin-overlay;
+  ols-overlay = final: prev: let
+    mkOLS = prev.callPackage ../lib/mkOLS.nix;
+    sources = builtins.fromJSON (builtins.readFile ../sources/ols.json);
+    system = prev.stdenv.hostPlatform.system;
+
+    allVersions =
+      builtins.mapAttrs (
+        version: platforms:
+          if builtins.hasAttr system platforms
+          then {
+            latest =
+              mkOLS
+              {
+                inherit version;
+                inherit (platforms.${system}) name url sha256;
+              };
+          }
+          else throw "ols-bin.${version}: no prebuilt binary for ${system}"
+      )
+      sources;
+  in {
+    ols-bin = allVersions;
+  };
 }
