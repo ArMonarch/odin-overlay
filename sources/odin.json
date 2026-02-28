@@ -1,0 +1,86 @@
+{
+  "dev-2026-02": {
+    "x86_64-linux": {
+      "url": "https://github.com/odin-lang/Odin/releases/download/dev-2026-02/odin-linux-amd64-dev-2026-02.tar.gz",
+      "sha256": "1qz2z5n9gs4b9fdpcdb0r0afg37d0crrmj36rm1bcb3f8grcplim"
+    }
+  },
+  "dev-2026-01": {
+    "x86_64-linux": {
+      "url": "https://github.com/odin-lang/Odin/releases/download/dev-2026-01/odin-linux-amd64-dev-2026-01.tar.gz",
+      "sha256": "10wsj12b7hfk3mii4l1bav9da03r5y1p28nkld9ggd4jxr5ld7jj"
+    }
+  },
+  "dev-2025-12a": {
+    "x86_64-linux": {
+      "url": "https://github.com/odin-lang/Odin/releases/download/dev-2025-12a/odin-linux-amd64-dev-2025-12a.tar.gz",
+      "sha256": "04pih3vhx4vj9jmvmhinbnhxzjqh963x9d6j5xpnmgyqqn4biva3"
+    }
+  },
+  "dev-2025-12": {
+    "x86_64-linux": {
+      "url": "https://github.com/odin-lang/Odin/releases/download/dev-2025-12/odin-linux-amd64-dev-2025-12.tar.gz",
+      "sha256": "0ahrngdny2py0nq73yyd7ik53zfc3dnbbr2g9frcsmfi7cn20mwx"
+    }
+  },
+  "dev-2025-11": {
+    "x86_64-linux": {
+      "url": "https://github.com/odin-lang/Odin/releases/download/dev-2025-11/odin-linux-amd64-dev-2025-11.zip",
+      "sha256": ""
+    }
+  },
+  "dev-2025-10": {
+    "x86_64-linux": {
+      "url": "https://github.com/odin-lang/Odin/releases/download/dev-2025-10/odin-linux-amd64-dev-2025-10-05.tar.gz",
+      "sha256": "03ys29dixv1hjxbxkyiv62b3xik21k8m6iq6k2cg84wrzg1d470a"
+    }
+  },
+  "dev-2025-09": {
+    "x86_64-linux": {
+      "url": "https://github.com/odin-lang/Odin/releases/download/dev-2025-09/odin-linux-amd64-dev-2025-09.zip",
+      "sha256": "1g794aqgc1s1bwfkcc08yrh2s8swnrhjhdla8k6cpvm4wcry83n4"
+    }
+  },
+  "dev-2025-08": {
+    "x86_64-linux": {
+      "url": "https://github.com/odin-lang/Odin/releases/download/dev-2025-08/odin-linux-amd64-dev-2025-08.zip",
+      "sha256": "1j3zdc5ghiws7sqryjj2vp97z93baa7ajv3vxm6y5z7n9j68m71g"
+    }
+  },
+  "dev-2025-07": {
+    "x86_64-linux": {
+      "url": "https://github.com/odin-lang/Odin/releases/download/dev-2025-07/odin-linux-amd64-dev-2025-07.tar.gz",
+      "sha256": "0izr9f4v5gz43kvpq7lg2xzwlv585paq8zmmw9ld1dr7hn6sm6lz"
+    }
+  },
+  "dev-2025-06": {
+    "x86_64-linux": {
+      "url": "https://github.com/odin-lang/Odin/releases/download/dev-2025-06/odin-linux-amd64-dev-2025-06.zip",
+      "sha256": "1as3l5x2a84hw3ywqjn2ysc6slkzncl6i28q1dz0whcibfzzd50i"
+    }
+  },
+  "dev-2025-04": {
+    "x86_64-linux": {
+      "url": "https://github.com/odin-lang/Odin/releases/download/dev-2025-04/odin-ubuntu-amd64-dev-2025-04.zip",
+      "sha256": "1ca110i09cizsjyqv61j1ci4xybvwnqy9g5pj05yvhgrj25b0pp9"
+    }
+  },
+  "dev-2025-03": {
+    "x86_64-linux": {
+      "url": "https://github.com/odin-lang/Odin/releases/download/dev-2025-03/odin-ubuntu-amd64-dev-2025-03.zip",
+      "sha256": "0la8px19ic73jgpyvkspbdjfczhsx1f6n304is82sxb7nsgcmkam"
+    }
+  },
+  "dev-2025-02": {
+    "x86_64-linux": {
+      "url": "https://github.com/odin-lang/Odin/releases/download/dev-2025-02/odin-linux-amd64-dev-2025-02.zip",
+      "sha256": "1ycy1ij9za964glvxzy0jvsin75zdq6iv6d73zhzga3ir4jbj977"
+    }
+  },
+  "dev-2025-01": {
+    "x86_64-linux": {
+      "url": "https://github.com/odin-lang/Odin/releases/download/dev-2025-01/odin-ubuntu-amd64-dev-2025-01.zip",
+      "sha256": "1ajsrbxdzy0pb8i1v4z8ci9a8r3d9j1ml4q6zm2rwsn1pzr0ilm3"
+    }
+  }
+}
