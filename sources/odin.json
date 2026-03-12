@@ -2,7 +2,7 @@
   "dev-2026-03": {
       "x86_64-linux": {
         "url": "https://github.com/odin-lang/Odin/releases/download/dev-2026-03/odin-linux-amd64-dev-2026-03.tar.gz",
-        "sha256": ""
+        "sha256": "0qpy8j4chyprjmp8rqnyw39b0fbl0x6fcy1an5k75r4nmq627rb7"
       },
       "aarch64-linux": {
         "url": "https://github.com/odin-lang/Odin/releases/download/dev-2026-03/odin-linux-arm64-dev-2026-03.tar.gz",
