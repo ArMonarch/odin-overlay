@@ -6,7 +6,7 @@
       },
       "aarch64-linux": {
         "url": "https://github.com/odin-lang/Odin/releases/download/dev-2026-03/odin-linux-arm64-dev-2026-03.tar.gz",
-        "sha256": ""
+        "sha256": "0k2zj2l675n836mhczghvrmn8hzqr3xfs468b23w501b8yd0cf9s"
       }
   },
   "dev-2026-02": {
