@@ -34,8 +34,8 @@ stdenv.mkDerivation {
 
     [ -d $out/builtin ] && mv $out/builtin $out/share
 
-    mv $(find $out -name "odinfmt*") $out/bin
-    mv $(find $out -name "ols*") $out/bin
+    mv $(find $out -name "odinfmt*") $out/bin/odinfmt
+    mv $(find $out -name "ols*") $out/bin/ols
 
 
     makeBinaryWrapper $(find $out -name "ols*") $out/bin/ols \
