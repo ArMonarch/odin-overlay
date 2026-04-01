@@ -1,4 +1,10 @@
 {
+  "dev-2026-03": {
+    "x86_64-linux": {
+      "url": "https://github.com/DanielGavin/ols/releases/download/dev-2026-03/ols-x86_64-unknown-linux-gnu.zip",
+      "sha256": "5wYzymKEPFYymNXmFJEgg4bU1pCfjcLa7ZusH6X3bD8="
+    }
+  },
   "dev-2026-02": {
     "x86_64-linux": {
       "url": "https://github.com/DanielGavin/ols/releases/download/dev-2026-02/ols-x86_64-unknown-linux-gnu.zip",
