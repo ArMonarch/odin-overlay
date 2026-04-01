@@ -1,7 +1,7 @@
 {
   lib,
+  pkgs,
   stdenv,
-  unzip,
   makeBinaryWrapper,
   url,
   sha256,
@@ -12,35 +12,25 @@ stdenv.mkDerivation {
   pname = "ols";
   inherit version;
 
-  src = builtins.fetchurl {
+  src = pkgs.fetchzip {
     inherit url sha256;
+    stripRoot = false;
   };
 
-  nativeBuildInputs = [unzip makeBinaryWrapper];
+  nativeBuildInputs = [makeBinaryWrapper];
 
   phases = ["unpackPhase" "installPhase"];
-
-  unpackPhase = ''
-    runHook preUnpack
-    unzip $src -d $out
-    runHook postUnpack
-  '';
-
   installPhase = ''
     runHook preInstall
 
     mkdir -p $out/bin
     mkdir -p $out/share
 
-    [ -d $out/builtin ] && mv $out/builtin $out/share
+    [ -d $src/builtin ] && cp -R $src/builtin $out/share
 
-    mv $(find $out -name "odinfmt*") $out/bin/odinfmt
-    mv $(find $out -name "ols*") $out/bin/ols
-
-
-    makeBinaryWrapper $(find $out -name "ols*") $out/bin/ols \
+    makeBinaryWrapper $(find $src -name "ols*") $out/bin/ols \
       --set OLS_BUILTIN_FOLDER "$out/share/builtin"
-    makeBinaryWrapper $(find $out -name "odinfmt*") $out/bin/odinfmt
+    makeBinaryWrapper $(find $src -name "odinfmt*") $out/bin/odinfmt
 
     runHook postInstall
   '';
