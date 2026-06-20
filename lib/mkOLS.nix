@@ -1,8 +1,8 @@
 {
   lib,
-  pkgs,
   stdenv,
   makeBinaryWrapper,
+  fetchzip,
   url,
   sha256,
   version,
@@ -12,7 +12,7 @@ stdenv.mkDerivation {
   pname = "ols";
   inherit version;
 
-  src = pkgs.fetchzip {
+  src = fetchzip {
     inherit url sha256;
     stripRoot = false;
   };
@@ -23,14 +23,21 @@ stdenv.mkDerivation {
   installPhase = ''
     runHook preInstall
 
-    mkdir -p $out/bin
-    mkdir -p $out/share
+    mkdir -p $out/bin $out/share
 
     [ -d $src/builtin ] && cp -R $src/builtin $out/share
 
-    makeBinaryWrapper $(find $src -name "ols*") $out/bin/ols \
+    # The server binary is named "ols" in recent releases and
+    # "ols-<target-triple>" in older ones.
+    olsBin=$(find $src -type f -name "ols*" | head -n1)
+    makeBinaryWrapper "$olsBin" $out/bin/ols \
       --set OLS_BUILTIN_FOLDER "$out/share/builtin"
-    makeBinaryWrapper $(find $src -name "odinfmt*") $out/bin/odinfmt
+
+    # odinfmt is only bundled with newer releases.
+    odinfmtBin=$(find $src -type f -name "odinfmt*" | head -n1)
+    if [ -n "$odinfmtBin" ]; then
+      makeBinaryWrapper "$odinfmtBin" $out/bin/odinfmt
+    fi
 
     runHook postInstall
   '';

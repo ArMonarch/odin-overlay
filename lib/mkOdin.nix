@@ -22,12 +22,21 @@ stdenvNoCC.mkDerivation {
   installPhase = ''
     runHook preInstall
 
-    mkdir -p $out/bin
-    mkdir -p $out/share
+    # Some older .zip releases wrap everything in a single dist.tar.gz.
+    [ -f dist.tar.gz ] && tar -xzf dist.tar.gz
 
-    cp -r {base,core,shared,vendor} $out/share
+    # Locate the toolchain root by finding the `odin` binary. Releases variously
+    # place it at the top level (plain tarball), under a versioned subdirectory,
+    # or next to a __MACOSX metadata directory.
+    odinExe=$(find . -type f -name odin -not -path '*/__MACOSX/*' -print -quit)
+    root=$(dirname "$odinExe")
 
-    makeBinaryWrapper $src/odin $out/bin/odin \
+    mkdir -p $out/bin $out/libexec $out/share
+
+    cp -r "$root"/{base,core,shared,vendor} $out/share
+    install -Dm755 "$odinExe" $out/libexec/odin
+
+    makeBinaryWrapper $out/libexec/odin $out/bin/odin \
       --set ODIN_ROOT "$out/share" \
       --prefix PATH : "${lib.makeBinPath [clang]}"
 

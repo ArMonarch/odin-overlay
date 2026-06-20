@@ -37,7 +37,7 @@
               mkOLS
               {
                 inherit version;
-                inherit (platforms.${system}) name url sha256;
+                inherit (platforms.${system}) url sha256;
               };
           }
           else throw "ols-bin.${version}: no prebuilt binary for ${system}"

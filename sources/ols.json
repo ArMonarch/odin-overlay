@@ -1,4 +1,16 @@
 {
+  "dev-2026-05": {
+    "x86_64-linux": {
+      "url": "https://github.com/DanielGavin/ols/releases/download/dev-2026-05/ols-x86_64-unknown-linux-gnu.zip",
+      "sha256": "4aqH4mhLCLT/EcGrFnRD9suicDX/b+mWCsl5fzv7FRU="
+    }
+  },
+  "dev-2026-04": {
+    "x86_64-linux": {
+      "url": "https://github.com/DanielGavin/ols/releases/download/dev-2026-04/ols-x86_64-unknown-linux-gnu.zip",
+      "sha256": "WkIp7zH4cO/KDz7yOqGZtg2Lh7wkzwwPetxWJo41HCo="
+    }
+  },
   "dev-2026-03": {
     "x86_64-linux": {
       "url": "https://github.com/DanielGavin/ols/releases/download/dev-2026-03/ols-x86_64-unknown-linux-gnu.zip",
@@ -14,37 +26,37 @@
   "dev-2026-01": {
     "x86_64-linux": {
       "url": "https://github.com/DanielGavin/ols/releases/download/dev-2026-01/ols-x86_64-unknown-linux-gnu.zip",
-      "sha256": ""
+      "sha256": "e9wW2lYu7RxzO8y0TdwwEB1b8Zhd4DnA4NbFPwsoSPQ="
     }
   },
   "dev-2025-12": {
     "x86_64-linux": {
       "url": "https://github.com/DanielGavin/ols/releases/download/dev-2025-12/ols-x86_64-unknown-linux-gnu.zip",
-      "sha256": ""
+      "sha256": "O4qDJS+XBjwrOMEE/LmBoIo/stCZpZfVjhUprwDHJ4k="
     }
   },
   "dev-2025-11": {
     "x86_64-linux": {
       "url": "https://github.com/DanielGavin/ols/releases/download/dev-2025-11/ols-x86_64-unknown-linux-gnu.zip",
-      "sha256": ""
+      "sha256": "WUDOULWsVNB9jtq/etktMA8CstOrq148dt9he/k/yAw="
     }
   },
   "dev-2025-10": {
     "x86_64-linux": {
       "url": "https://github.com/DanielGavin/ols/releases/download/dev-2025-10/ols-x86_64-unknown-linux-gnu.zip",
-      "sha256": ""
+      "sha256": "n4S/kczDPDgL8RM2g500FKMgGXvlLppis+Zh3crtdQc="
     }
   },
   "dev-2025-09": {
     "x86_64-linux": {
       "url": "https://github.com/DanielGavin/ols/releases/download/dev-2025-09/ols-x86_64-unknown-linux-gnu.zip",
-      "sha256": ""
+      "sha256": "YL/s7nOzFTKGfFo6Kq4P8fDepRvFxA8OP+yh7zNSDlQ="
     }
   },
   "nightly": {
     "x86_64-linux": {
       "url": "https://github.com/DanielGavin/ols/releases/download/nightly/ols-x86_64-unknown-linux-gnu.zip",
-      "sha256": ""
+      "sha256": "ZT/GXxxTKFSRgw9ej0a/w8J5Vv0UPURtRMEr/WPUrgc="
     }
   }
 }
