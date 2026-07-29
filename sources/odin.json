@@ -7,6 +7,14 @@
     "aarch64-linux": {
       "url": "https://github.com/odin-lang/Odin/releases/download/dev-2026-07a/odin-linux-arm64-dev-2026-07a.tar.gz",
       "sha256": "14ii70pvrz53sy5pxqz24jpbwfz920hrirq14jaz3j6lqnis9l6d"
+    },
+    "x86_64-darwin": {
+      "url": "https://github.com/odin-lang/Odin/releases/download/dev-2026-07a/odin-macos-amd64-dev-2026-07a.tar.gz",
+      "sha256": "1zm9n08yw7xyrklf6riycbf6wbzkcij1q35qv5j4c02zwfl0l8rd"
+    },
+    "aarch64-darwin": {
+      "url": "https://github.com/odin-lang/Odin/releases/download/dev-2026-07a/odin-macos-arm64-dev-2026-07a.tar.gz",
+      "sha256": "0pll7mjsms787k6crd6lvpvcq8nf9d0frnwsvyvar1za4lpbfqpl"
     }
   },
   "dev-2026-07": {
@@ -17,6 +25,14 @@
     "aarch64-linux": {
       "url": "https://github.com/odin-lang/Odin/releases/download/dev-2026-07/odin-linux-arm64-dev-2026-07.tar.gz",
       "sha256": "17mfz9s3njhl9k5jazs1d0jqdpv9xlzp4mcqswdyq1isw87bvlgr"
+    },
+    "x86_64-darwin": {
+      "url": "https://github.com/odin-lang/Odin/releases/download/dev-2026-07/odin-macos-amd64-dev-2026-07.tar.gz",
+      "sha256": "1dvhbv6lq6fx12pim51440bvw0yj1sqjq9c3wkh64yx7j5yfvn9g"
+    },
+    "aarch64-darwin": {
+      "url": "https://github.com/odin-lang/Odin/releases/download/dev-2026-07/odin-macos-arm64-dev-2026-07.tar.gz",
+      "sha256": "1pkhy3kyq8m23g5k8hqdxsdfmqynsa089fnbyg00x130h48xrmx1"
     }
   },
   "dev-2026-06": {
@@ -27,6 +43,14 @@
     "aarch64-linux": {
       "url": "https://github.com/odin-lang/Odin/releases/download/dev-2026-06/odin-linux-arm64-dev-2026-06.tar.gz",
       "sha256": "1k770f0rcm5z2m0qcj91pdvgfk4ywrqjw78jyi8z7d3x2dj6j6w0"
+    },
+    "x86_64-darwin": {
+      "url": "https://github.com/odin-lang/Odin/releases/download/dev-2026-06/odin-macos-amd64-dev-2026-06.tar.gz",
+      "sha256": "16x30y3faymkxvwfhva7fagingfrv48s3m9hi5wzm2pra86vc1gy"
+    },
+    "aarch64-darwin": {
+      "url": "https://github.com/odin-lang/Odin/releases/download/dev-2026-06/odin-macos-arm64-dev-06.tar.gz",
+      "sha256": "1smnjaywf4diypbzbijcr0i8czb3jnkasnnr637wd8qb8ks2lpdv"
     }
   },
   "dev-2026-05": {
@@ -37,6 +61,14 @@
     "aarch64-linux": {
       "url": "https://github.com/odin-lang/Odin/releases/download/dev-2026-05/odin-linux-arm64-dev-2026-05.tar.gz",
       "sha256": "1rk0nrg3fcnl675msmf4m2wd1z3qb3sfapk7bgzd99l8hrcivh0s"
+    },
+    "x86_64-darwin": {
+      "url": "https://github.com/odin-lang/Odin/releases/download/dev-2026-05/odin-macos-amd64-dev-2026-05.tar.gz",
+      "sha256": "17bjbn7w1l25klra3hhch5z7w3z3pj1s17nk0h9ywmkw0idnxkqy"
+    },
+    "aarch64-darwin": {
+      "url": "https://github.com/odin-lang/Odin/releases/download/dev-2026-05/odin-macos-arm64-dev-2026-05.tar.gz",
+      "sha256": "1rnnfsg7vdypz6bg5fgxfirbyspk2kj6hb40si3dyl13al71286n"
     }
   },
   "dev-2026-04": {
@@ -47,6 +79,14 @@
     "aarch64-linux": {
       "url": "https://github.com/odin-lang/Odin/releases/download/dev-2026-04/odin-linux-arm64-dev-2026-04.tar.gz",
       "sha256": "0sy1jm1iyd4c6ikjq59k8p849sz4bp77ii5mnl4ldh68f7s8fq3i"
+    },
+    "x86_64-darwin": {
+      "url": "https://github.com/odin-lang/Odin/releases/download/dev-2026-04/odin-macos-amd64-dev-2026-04.tar.gz",
+      "sha256": "14rnapr1vzch0jizf0y7vnc6npmlly5xwc6bbx6lcdj2rgy07w25"
+    },
+    "aarch64-darwin": {
+      "url": "https://github.com/odin-lang/Odin/releases/download/dev-2026-04/odin-macos-arm64-dev-2026-04.tar.gz",
+      "sha256": "1wg2jh07rg6w5kvb8yzbq29scdf7y6vb0hsaqd8jmnsgx0kc3z29"
     }
   },
   "dev-2026-03": {
@@ -57,6 +97,14 @@
     "aarch64-linux": {
       "url": "https://github.com/odin-lang/Odin/releases/download/dev-2026-03/odin-linux-arm64-dev-2026-03.tar.gz",
       "sha256": "0k2zj2l675n836mhczghvrmn8hzqr3xfs468b23w501b8yd0cf9s"
+    },
+    "x86_64-darwin": {
+      "url": "https://github.com/odin-lang/Odin/releases/download/dev-2026-03/odin-macos-amd64-dev-2026-03.tar.gz",
+      "sha256": "1bvm0swj85rg36wy4bwhpp5xz0q13qa3cxp93jz3a19kzi5yfcck"
+    },
+    "aarch64-darwin": {
+      "url": "https://github.com/odin-lang/Odin/releases/download/dev-2026-03/odin-macos-arm64-dev-2026-03.tar.gz",
+      "sha256": "1dii322ard0608m6zvvym9zf36p2l7p1sxygxaczwhs39mg4bqvk"
     }
   },
   "dev-2026-02": {
@@ -67,6 +115,14 @@
     "aarch64-linux": {
       "url": "https://github.com/odin-lang/Odin/releases/download/dev-2026-02/odin-linux-arm64-dev-2026-02.tar.gz",
       "sha256": "0wmwazak2qyiwpwf0g21s3x9xq362v1z78ar7g7fxyh9cckka067"
+    },
+    "x86_64-darwin": {
+      "url": "https://github.com/odin-lang/Odin/releases/download/dev-2026-02/odin-macos-amd64-dev-2026-02.tar.gz",
+      "sha256": "0brj91fms3icx45dpqb2jrk24v8zj70i3pfhk5xdkgcd86xz25na"
+    },
+    "aarch64-darwin": {
+      "url": "https://github.com/odin-lang/Odin/releases/download/dev-2026-02/odin-macos-arm64-dev-2026-02.tar.gz",
+      "sha256": "0pxvg9iysb9xq33p3vjx7iyfl8p681ilsj9yc06q3cvxhrjkv35d"
     }
   },
   "dev-2026-01": {
@@ -77,6 +133,14 @@
     "aarch64-linux": {
       "url": "https://github.com/odin-lang/Odin/releases/download/dev-2026-01/odin-linux-arm64-dev-2026-01.tar.gz",
       "sha256": "0sjn7lhjd654hi4pvli2jsw3dplf35p4i9w9llm8gbaknck0bbf6"
+    },
+    "x86_64-darwin": {
+      "url": "https://github.com/odin-lang/Odin/releases/download/dev-2026-01/odin-macos-amd64-dev-2026-01.tar.gz",
+      "sha256": "05qwbg4jiigxjbgls1nsxz41y8h7dvqa0h8j294ppcwq9hkgck1n"
+    },
+    "aarch64-darwin": {
+      "url": "https://github.com/odin-lang/Odin/releases/download/dev-2026-01/odin-macos-arm64-dev-2026-01.tar.gz",
+      "sha256": "1fczkn06y1q4cflsch5w3zxal0nnlb9ck8gs1l9wi5mybhy1s877"
     }
   },
   "dev-2025-12a": {
@@ -87,6 +151,14 @@
     "aarch64-linux": {
       "url": "https://github.com/odin-lang/Odin/releases/download/dev-2025-12a/odin-linux-arm64-dev-2025-12a.tar.gz",
       "sha256": "16q9z9ajni3k8gwih3n1607v6c6yh6x0klim4cb9rfxz1g46c3dj"
+    },
+    "x86_64-darwin": {
+      "url": "https://github.com/odin-lang/Odin/releases/download/dev-2025-12a/odin-macos-amd64-dev-2025-12a.tar.gz",
+      "sha256": "021qwgrbqx8hpdxmfnbdra7kb0k4f81ycqczwr7mk8iidsacgg0i"
+    },
+    "aarch64-darwin": {
+      "url": "https://github.com/odin-lang/Odin/releases/download/dev-2025-12a/odin-macos-arm64-dev-2025-12a.tar.gz",
+      "sha256": "00bv5kzms1qg7iasmgkccrs9a478x3wnxqy8a607w11jl81488n3"
     }
   },
   "dev-2025-12": {
@@ -97,6 +169,14 @@
     "aarch64-linux": {
       "url": "https://github.com/odin-lang/Odin/releases/download/dev-2025-12/odin-linux-arm64-dev-2025-12.tar.gz",
       "sha256": "0a96ab9az7pazi5a9f3ny2vkpf3saxaqqrlhqd07z55zn0wbjbwx"
+    },
+    "x86_64-darwin": {
+      "url": "https://github.com/odin-lang/Odin/releases/download/dev-2025-12/odin-macos-amd64-dev-2025-12.tar.gz",
+      "sha256": "09mil2y07m28n2v9qakwylci16c2l5wff0dh4rkwfdfdwq6qj0pa"
+    },
+    "aarch64-darwin": {
+      "url": "https://github.com/odin-lang/Odin/releases/download/dev-2025-12/odin-macos-arm64-dev-2025-12.tar.gz",
+      "sha256": "1pm24cs3jmsk4r46g62gqlx5v3yyljbnc3g3h63y9vnakaw6f4sb"
     }
   },
   "dev-2025-11": {
@@ -107,6 +187,10 @@
     "aarch64-linux": {
       "url": "https://github.com/odin-lang/Odin/releases/download/dev-2025-11/odin-linux-arm64-dev-2025-11.zip",
       "sha256": "1d5j3qkhd7q92np3g08xqvfn1j1234qgjws3y7vi36zb8mm6f86v"
+    },
+    "aarch64-darwin": {
+      "url": "https://github.com/odin-lang/Odin/releases/download/dev-2025-11/odin-macos-arm64-dev-2025-11.zip",
+      "sha256": "097qcb89jcvnpm32ani1bq0pvsvs65i0kl81rvs8r8nw7chlah07"
     }
   },
   "dev-2025-10": {
@@ -117,6 +201,10 @@
     "aarch64-linux": {
       "url": "https://github.com/odin-lang/Odin/releases/download/dev-2025-10/odin-linux-arm64-dev-2025-10-05.tar.gz",
       "sha256": "0dcw8g83kil9z8214fdc3nd5drk5kannjaalbzpjy8d028xhhifs"
+    },
+    "aarch64-darwin": {
+      "url": "https://github.com/odin-lang/Odin/releases/download/dev-2025-10/odin-macos-arm64-dev-2025-10-05.tar.gz",
+      "sha256": "13w6yhg4wm1rv8w3fxb4pxyi66dzvlxj0wph4dmr56305ccp6sbm"
     }
   },
   "dev-2025-09": {
@@ -127,48 +215,112 @@
     "aarch64-linux": {
       "url": "https://github.com/odin-lang/Odin/releases/download/dev-2025-09/odin-linux-arm64-dev-2025-09.zip",
       "sha256": "1plxyhvsk047cg6h41bl2rxrk17s5pr0fnxvh0v0q5z3k59a7lin"
+    },
+    "x86_64-darwin": {
+      "url": "https://github.com/odin-lang/Odin/releases/download/dev-2025-09/odin-macos-amd64-dev-2025-09.zip",
+      "sha256": "0vqdwyclh0s1mmkz638i0vsqivwq0760jbpdckzscl2kp26sbl62"
+    },
+    "aarch64-darwin": {
+      "url": "https://github.com/odin-lang/Odin/releases/download/dev-2025-09/odin-macos-arm64-dev-2025-09.zip",
+      "sha256": "0knfq3w0mm1a1v9h46w93cxjdwqgpx60gnc9x7lm9s2m8xsm9770"
     }
   },
   "dev-2025-08": {
     "x86_64-linux": {
       "url": "https://github.com/odin-lang/Odin/releases/download/dev-2025-08/odin-linux-amd64-dev-2025-08.zip",
       "sha256": "1j3zdc5ghiws7sqryjj2vp97z93baa7ajv3vxm6y5z7n9j68m71g"
+    },
+    "x86_64-darwin": {
+      "url": "https://github.com/odin-lang/Odin/releases/download/dev-2025-08/odin-macos-amd64-dev-2025-08.zip",
+      "sha256": "0md9pmxidm7lyl093q140s0wndqg5rsvcxamxhw9g9mlsji6lxnm"
+    },
+    "aarch64-darwin": {
+      "url": "https://github.com/odin-lang/Odin/releases/download/dev-2025-08/odin-macos-arm64-dev-2025-08.zip",
+      "sha256": "1m96125jjkv4salwa25h77x34khig6byq1r9b48ahhnb2si0xh64"
     }
   },
   "dev-2025-07": {
     "x86_64-linux": {
       "url": "https://github.com/odin-lang/Odin/releases/download/dev-2025-07/odin-linux-amd64-dev-2025-07.tar.gz",
       "sha256": "0izr9f4v5gz43kvpq7lg2xzwlv585paq8zmmw9ld1dr7hn6sm6lz"
+    },
+    "x86_64-darwin": {
+      "url": "https://github.com/odin-lang/Odin/releases/download/dev-2025-07/odin-macos-amd64-dev-2025-07.tar.gz",
+      "sha256": "106jw4qqlfcwd8f903zm6sm99gapr2h10bihklhna923c0l81mmg"
+    },
+    "aarch64-darwin": {
+      "url": "https://github.com/odin-lang/Odin/releases/download/dev-2025-07/odin-macos-arm64-dev-2025-07.tar.gz",
+      "sha256": "186azzffq345pqvzp6vg03091kwzvqg6ji867fc7fwkhn0i58jka"
     }
   },
   "dev-2025-06": {
     "x86_64-linux": {
       "url": "https://github.com/odin-lang/Odin/releases/download/dev-2025-06/odin-linux-amd64-dev-2025-06.zip",
       "sha256": "1as3l5x2a84hw3ywqjn2ysc6slkzncl6i28q1dz0whcibfzzd50i"
+    },
+    "x86_64-darwin": {
+      "url": "https://github.com/odin-lang/Odin/releases/download/dev-2025-06/odin-macos-amd64-dev-2025-06.zip",
+      "sha256": "17l8wyqnrxbzhnzb6gg63d53jdf694sqi6sb4nlpbqpsjwdfvh52"
+    },
+    "aarch64-darwin": {
+      "url": "https://github.com/odin-lang/Odin/releases/download/dev-2025-06/odin-macos-arm64-dev-2025-06.zip",
+      "sha256": "1kpcp5fq5rd9q2q677byvbzw8s2h5scz9k047i55zbdn4h3z2r2d"
     }
   },
   "dev-2025-04": {
     "x86_64-linux": {
       "url": "https://github.com/odin-lang/Odin/releases/download/dev-2025-04/odin-ubuntu-amd64-dev-2025-04.zip",
       "sha256": "1ca110i09cizsjyqv61j1ci4xybvwnqy9g5pj05yvhgrj25b0pp9"
+    },
+    "x86_64-darwin": {
+      "url": "https://github.com/odin-lang/Odin/releases/download/dev-2025-04/odin-macos-amd64-dev-2025-04.zip",
+      "sha256": "1lifdxz7zvzswyr8vf1mxw37gygldm474fppkr1qvmalaivjsf8w"
+    },
+    "aarch64-darwin": {
+      "url": "https://github.com/odin-lang/Odin/releases/download/dev-2025-04/odin-macos-arm64-dev-2025-04.zip",
+      "sha256": "0xxpyr8gylydw4ky8hjx8yznl4mw2wgjgyw3vdgkff9gzmg3kiji"
     }
   },
   "dev-2025-03": {
     "x86_64-linux": {
       "url": "https://github.com/odin-lang/Odin/releases/download/dev-2025-03/odin-ubuntu-amd64-dev-2025-03.zip",
       "sha256": "0la8px19ic73jgpyvkspbdjfczhsx1f6n304is82sxb7nsgcmkam"
+    },
+    "x86_64-darwin": {
+      "url": "https://github.com/odin-lang/Odin/releases/download/dev-2025-03/odin-macos-amd64-dev-2025-03.zip",
+      "sha256": "027i7p2937x9q6xhijilvaszzk9xgc3n1n4g45h4wcxjdkm8gyn6"
+    },
+    "aarch64-darwin": {
+      "url": "https://github.com/odin-lang/Odin/releases/download/dev-2025-03/odin-macos-arm64-dev-2025-03.zip",
+      "sha256": "1syn3j71vkqiqkyqgf67dblk5m48dmmsx2sw5zdk796mn1dkv480"
     }
   },
   "dev-2025-02": {
     "x86_64-linux": {
       "url": "https://github.com/odin-lang/Odin/releases/download/dev-2025-02/odin-linux-amd64-dev-2025-02.zip",
       "sha256": "1ycy1ij9za964glvxzy0jvsin75zdq6iv6d73zhzga3ir4jbj977"
+    },
+    "x86_64-darwin": {
+      "url": "https://github.com/odin-lang/Odin/releases/download/dev-2025-02/odin-macos-amd64-dev-2025-02.zip",
+      "sha256": "1n7bijjxkra7l4ifcd6dq62yzwry56l5a0w2a13gnpign8a4ifjw"
+    },
+    "aarch64-darwin": {
+      "url": "https://github.com/odin-lang/Odin/releases/download/dev-2025-02/odin-macos-arm64-dev-2025-02.zip",
+      "sha256": "04g8zpp6b2ndzv6dbjnw3vws1w02jhakn5w8r8nd64268rkmhbp4"
     }
   },
   "dev-2025-01": {
     "x86_64-linux": {
       "url": "https://github.com/odin-lang/Odin/releases/download/dev-2025-01/odin-ubuntu-amd64-dev-2025-01.zip",
       "sha256": "1ajsrbxdzy0pb8i1v4z8ci9a8r3d9j1ml4q6zm2rwsn1pzr0ilm3"
+    },
+    "x86_64-darwin": {
+      "url": "https://github.com/odin-lang/Odin/releases/download/dev-2025-01/odin-macos-amd64-dev-2025-01.zip",
+      "sha256": "1aschbhinhqf1yzj4z1bk8bcx72zqahpl8wrhy0snqvvnys2sknr"
+    },
+    "aarch64-darwin": {
+      "url": "https://github.com/odin-lang/Odin/releases/download/dev-2025-01/odin-macos-arm64-dev-2025-01.zip",
+      "sha256": "13wniy1xcgf9r71rzhyxzq3blpql2r5qnlv4wxc1afhx2hk0hrfl"
     }
   }
 }

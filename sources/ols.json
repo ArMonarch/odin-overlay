@@ -7,6 +7,14 @@
     "aarch64-linux": {
       "url": "https://github.com/DanielGavin/ols/releases/download/dev-2026-06/ols-arm64-unknown-linux-gnu.zip",
       "sha256": "UpGSVSmSbMrhn6hliEj21F0hYl3ziI/659MC60ffqp8="
+    },
+    "x86_64-darwin": {
+      "url": "https://github.com/DanielGavin/ols/releases/download/dev-2026-06/ols-x86_64-darwin.zip",
+      "sha256": "pkeSrpQZTfmLZzy3Qp7TpiOTqBTujzz43RdIdfyxR/k="
+    },
+    "aarch64-darwin": {
+      "url": "https://github.com/DanielGavin/ols/releases/download/dev-2026-06/ols-arm64-darwin.zip",
+      "sha256": "eqqDasLT3lKrx8ljCKtAlQnPht/Gf6Kw1KZagPAb6ZQ="
     }
   },
   "dev-2026-05": {
@@ -17,6 +25,14 @@
     "aarch64-linux": {
       "url": "https://github.com/DanielGavin/ols/releases/download/dev-2026-05/ols-arm64-unknown-linux-gnu.zip",
       "sha256": "TSmZCzQ7Ko8xE0mVG+53/0PG8EyR+i2twMXSPDKipsY="
+    },
+    "x86_64-darwin": {
+      "url": "https://github.com/DanielGavin/ols/releases/download/dev-2026-05/ols-x86_64-darwin.zip",
+      "sha256": "F9gyl8t7veE+5VRN53FRRHIRrYHXs0StPqs6g2ezHZ4="
+    },
+    "aarch64-darwin": {
+      "url": "https://github.com/DanielGavin/ols/releases/download/dev-2026-05/ols-arm64-darwin.zip",
+      "sha256": "pwQz+wrRST/SlKhgyogJTOPlmu+3pZ9Kls1xTARb37A="
     }
   },
   "dev-2026-04": {
@@ -27,6 +43,14 @@
     "aarch64-linux": {
       "url": "https://github.com/DanielGavin/ols/releases/download/dev-2026-04/ols-arm64-unknown-linux-gnu.zip",
       "sha256": "uU8c9KhQZKe+vxP16+fpbedp+KR1Hi/2PYZPY/Mh+0U="
+    },
+    "x86_64-darwin": {
+      "url": "https://github.com/DanielGavin/ols/releases/download/dev-2026-04/ols-x86_64-darwin.zip",
+      "sha256": "lRezn9UP/LXB9ElR/RDsuAoBflc2O6QdOZw22VPlzxY="
+    },
+    "aarch64-darwin": {
+      "url": "https://github.com/DanielGavin/ols/releases/download/dev-2026-04/ols-arm64-darwin.zip",
+      "sha256": "KRS7cA4iYGGOD+hXXDXWkcuUjXFjFNp7Ugy3MGh9JvI="
     }
   },
   "dev-2026-03": {
@@ -37,6 +61,14 @@
     "aarch64-linux": {
       "url": "https://github.com/DanielGavin/ols/releases/download/dev-2026-03/ols-arm64-unknown-linux-gnu.zip",
       "sha256": "Eby4aAcsIdEQ+mnapO4c+1F8GK9XNn6365GbBIg3dyE="
+    },
+    "x86_64-darwin": {
+      "url": "https://github.com/DanielGavin/ols/releases/download/dev-2026-03/ols-x86_64-darwin.zip",
+      "sha256": "zkdVqCsyWLIMB8Wwa9hAK524h/VJljPNAF6TgCMMeOU="
+    },
+    "aarch64-darwin": {
+      "url": "https://github.com/DanielGavin/ols/releases/download/dev-2026-03/ols-arm64-darwin.zip",
+      "sha256": "MiioJjyrAYxtpP6yA/ksKworfp5tZbh8TSG/dH933VE="
     }
   },
   "dev-2026-02": {
@@ -47,6 +79,14 @@
     "aarch64-linux": {
       "url": "https://github.com/DanielGavin/ols/releases/download/dev-2026-02/ols-arm64-unknown-linux-gnu.zip",
       "sha256": "aX/o7Yfr76Gla4O6boq4nHIzuJnxBxDKNcKCBZCRHHI="
+    },
+    "x86_64-darwin": {
+      "url": "https://github.com/DanielGavin/ols/releases/download/dev-2026-02/ols-x86_64-darwin.zip",
+      "sha256": "cgHU8MtldnWicS7s98to+KE34J4m3bgoUbcnq8jGJH8="
+    },
+    "aarch64-darwin": {
+      "url": "https://github.com/DanielGavin/ols/releases/download/dev-2026-02/ols-arm64-darwin.zip",
+      "sha256": "JARE8RlbExRgpsXqJ83rsjWEeVtKekjBQsjngcBhrzw="
     }
   },
   "dev-2026-01": {
@@ -57,6 +97,14 @@
     "aarch64-linux": {
       "url": "https://github.com/DanielGavin/ols/releases/download/dev-2026-01/ols-arm64-unknown-linux-gnu.zip",
       "sha256": "Tls7Cx1l04E45Cp0t07Z+k/x66ZA1tWrGmNA9qOnU/U="
+    },
+    "x86_64-darwin": {
+      "url": "https://github.com/DanielGavin/ols/releases/download/dev-2026-01/ols-x86_64-darwin.zip",
+      "sha256": "cOcUF1iuf6AqmRx8IhEYFEIjqPCE75bSRgaR5S0bC0Y="
+    },
+    "aarch64-darwin": {
+      "url": "https://github.com/DanielGavin/ols/releases/download/dev-2026-01/ols-arm64-darwin.zip",
+      "sha256": "Bz3f0uOGbU0RS+ITD1yFI6KSsgAIwHRSOUgnEbEJmRM="
     }
   },
   "dev-2025-12": {
@@ -67,6 +115,14 @@
     "aarch64-linux": {
       "url": "https://github.com/DanielGavin/ols/releases/download/dev-2025-12/ols-arm64-unknown-linux-gnu.zip",
       "sha256": "r2+/B1oMK2ndCTX4R1WV/TgPN0KCFXSUWytGoBLJIYU="
+    },
+    "x86_64-darwin": {
+      "url": "https://github.com/DanielGavin/ols/releases/download/dev-2025-12/ols-x86_64-darwin.zip",
+      "sha256": "ZLXv1IMqjUqLYApbXoHFlA0nEurfudWS9zeigHTJfdA="
+    },
+    "aarch64-darwin": {
+      "url": "https://github.com/DanielGavin/ols/releases/download/dev-2025-12/ols-arm64-darwin.zip",
+      "sha256": "F/jyS/lCHKx5RgMQzp73UQMZCaiO+DcPi/iLmySOF+w="
     }
   },
   "dev-2025-11": {
@@ -77,6 +133,14 @@
     "aarch64-linux": {
       "url": "https://github.com/DanielGavin/ols/releases/download/dev-2025-11/ols-arm64-unknown-linux-gnu.zip",
       "sha256": "qhHLD/f3SXPXUQijLYISDFpXMkAf/Ol33XDJTBc3a5s="
+    },
+    "x86_64-darwin": {
+      "url": "https://github.com/DanielGavin/ols/releases/download/dev-2025-11/ols-x86_64-darwin.zip",
+      "sha256": "h6O2dgif6eChbLuAoEqBHTP7Q8hDQaFCSJKKKQn1t44="
+    },
+    "aarch64-darwin": {
+      "url": "https://github.com/DanielGavin/ols/releases/download/dev-2025-11/ols-arm64-darwin.zip",
+      "sha256": "Sph8IfmppoLjriUwtRPRTi2SV11DGgjNEKTQN973xcU="
     }
   },
   "dev-2025-10": {
@@ -87,6 +151,14 @@
     "aarch64-linux": {
       "url": "https://github.com/DanielGavin/ols/releases/download/dev-2025-10/ols-arm64-unknown-linux-gnu.zip",
       "sha256": "9DIjg34khXBvRpZzfc0komgDtBRCMGWF8v/ZCF/q4gc="
+    },
+    "x86_64-darwin": {
+      "url": "https://github.com/DanielGavin/ols/releases/download/dev-2025-10/ols-x86_64-darwin.zip",
+      "sha256": "Sp4GZp2hlOIGh/qTUCokNroInvRsVJ5JFqctl9wD+tg="
+    },
+    "aarch64-darwin": {
+      "url": "https://github.com/DanielGavin/ols/releases/download/dev-2025-10/ols-arm64-darwin.zip",
+      "sha256": "DGiB/AxY0xX18DIXEY+ijSPxEbhneR8nQC64hgh8saI="
     }
   },
   "dev-2025-09": {
@@ -97,6 +169,14 @@
     "aarch64-linux": {
       "url": "https://github.com/DanielGavin/ols/releases/download/dev-2025-09/ols-arm64-unknown-linux-gnu.zip",
       "sha256": "HyVUqE+Zw6Lni/8+daepeC1kJJYXH4J5wm22cBbfdwM="
+    },
+    "x86_64-darwin": {
+      "url": "https://github.com/DanielGavin/ols/releases/download/dev-2025-09/ols-x86_64-darwin.zip",
+      "sha256": "doOYdyH/UfPlKHipofBEgqBY66vOKKex3FHpY++OA7k="
+    },
+    "aarch64-darwin": {
+      "url": "https://github.com/DanielGavin/ols/releases/download/dev-2025-09/ols-arm64-darwin.zip",
+      "sha256": "yKVNJPwiOAyeXlRrUKX9iEEjWteqPY2wxJl7gNXUWiQ="
     }
   },
   "nightly": {
@@ -107,6 +187,14 @@
     "aarch64-linux": {
       "url": "https://github.com/DanielGavin/ols/releases/download/nightly/ols-arm64-unknown-linux-gnu.zip",
       "sha256": "vacp2IrRAf49t8S92RdjoecEe4hYWwWdVNxChtGkeTw="
+    },
+    "x86_64-darwin": {
+      "url": "https://github.com/DanielGavin/ols/releases/download/nightly/ols-x86_64-darwin.zip",
+      "sha256": "lpWrodF8YS0fMZ5HulAeR/uANSTuiuNsRpR92WgvUPI="
+    },
+    "aarch64-darwin": {
+      "url": "https://github.com/DanielGavin/ols/releases/download/nightly/ols-arm64-darwin.zip",
+      "sha256": "YeYRzzyM35RfgKy8hox7/yryp2yO0tm9/nDEMf/3I00="
     }
   }
 }
