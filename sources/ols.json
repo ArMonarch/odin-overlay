@@ -1,62 +1,112 @@
 {
+  "dev-2026-06": {
+    "x86_64-linux": {
+      "url": "https://github.com/DanielGavin/ols/releases/download/dev-2026-06/ols-x86_64-unknown-linux-gnu.zip",
+      "sha256": "9WcgkOx5KHtMbh9GY6B6eBF54faZyInb5j6aBIeN2E8="
+    },
+    "aarch64-linux": {
+      "url": "https://github.com/DanielGavin/ols/releases/download/dev-2026-06/ols-arm64-unknown-linux-gnu.zip",
+      "sha256": "UpGSVSmSbMrhn6hliEj21F0hYl3ziI/659MC60ffqp8="
+    }
+  },
   "dev-2026-05": {
     "x86_64-linux": {
       "url": "https://github.com/DanielGavin/ols/releases/download/dev-2026-05/ols-x86_64-unknown-linux-gnu.zip",
       "sha256": "4aqH4mhLCLT/EcGrFnRD9suicDX/b+mWCsl5fzv7FRU="
+    },
+    "aarch64-linux": {
+      "url": "https://github.com/DanielGavin/ols/releases/download/dev-2026-05/ols-arm64-unknown-linux-gnu.zip",
+      "sha256": "TSmZCzQ7Ko8xE0mVG+53/0PG8EyR+i2twMXSPDKipsY="
     }
   },
   "dev-2026-04": {
     "x86_64-linux": {
       "url": "https://github.com/DanielGavin/ols/releases/download/dev-2026-04/ols-x86_64-unknown-linux-gnu.zip",
       "sha256": "WkIp7zH4cO/KDz7yOqGZtg2Lh7wkzwwPetxWJo41HCo="
+    },
+    "aarch64-linux": {
+      "url": "https://github.com/DanielGavin/ols/releases/download/dev-2026-04/ols-arm64-unknown-linux-gnu.zip",
+      "sha256": "uU8c9KhQZKe+vxP16+fpbedp+KR1Hi/2PYZPY/Mh+0U="
     }
   },
   "dev-2026-03": {
     "x86_64-linux": {
       "url": "https://github.com/DanielGavin/ols/releases/download/dev-2026-03/ols-x86_64-unknown-linux-gnu.zip",
       "sha256": "5wYzymKEPFYymNXmFJEgg4bU1pCfjcLa7ZusH6X3bD8="
+    },
+    "aarch64-linux": {
+      "url": "https://github.com/DanielGavin/ols/releases/download/dev-2026-03/ols-arm64-unknown-linux-gnu.zip",
+      "sha256": "Eby4aAcsIdEQ+mnapO4c+1F8GK9XNn6365GbBIg3dyE="
     }
   },
   "dev-2026-02": {
     "x86_64-linux": {
       "url": "https://github.com/DanielGavin/ols/releases/download/dev-2026-02/ols-x86_64-unknown-linux-gnu.zip",
       "sha256": "VeUT+VWt1c7H1u9mx6Y76XRZSeB5qwEAsWn93KTNDH0="
+    },
+    "aarch64-linux": {
+      "url": "https://github.com/DanielGavin/ols/releases/download/dev-2026-02/ols-arm64-unknown-linux-gnu.zip",
+      "sha256": "aX/o7Yfr76Gla4O6boq4nHIzuJnxBxDKNcKCBZCRHHI="
     }
   },
   "dev-2026-01": {
     "x86_64-linux": {
       "url": "https://github.com/DanielGavin/ols/releases/download/dev-2026-01/ols-x86_64-unknown-linux-gnu.zip",
       "sha256": "e9wW2lYu7RxzO8y0TdwwEB1b8Zhd4DnA4NbFPwsoSPQ="
+    },
+    "aarch64-linux": {
+      "url": "https://github.com/DanielGavin/ols/releases/download/dev-2026-01/ols-arm64-unknown-linux-gnu.zip",
+      "sha256": "Tls7Cx1l04E45Cp0t07Z+k/x66ZA1tWrGmNA9qOnU/U="
     }
   },
   "dev-2025-12": {
     "x86_64-linux": {
       "url": "https://github.com/DanielGavin/ols/releases/download/dev-2025-12/ols-x86_64-unknown-linux-gnu.zip",
       "sha256": "O4qDJS+XBjwrOMEE/LmBoIo/stCZpZfVjhUprwDHJ4k="
+    },
+    "aarch64-linux": {
+      "url": "https://github.com/DanielGavin/ols/releases/download/dev-2025-12/ols-arm64-unknown-linux-gnu.zip",
+      "sha256": "r2+/B1oMK2ndCTX4R1WV/TgPN0KCFXSUWytGoBLJIYU="
     }
   },
   "dev-2025-11": {
     "x86_64-linux": {
       "url": "https://github.com/DanielGavin/ols/releases/download/dev-2025-11/ols-x86_64-unknown-linux-gnu.zip",
       "sha256": "WUDOULWsVNB9jtq/etktMA8CstOrq148dt9he/k/yAw="
+    },
+    "aarch64-linux": {
+      "url": "https://github.com/DanielGavin/ols/releases/download/dev-2025-11/ols-arm64-unknown-linux-gnu.zip",
+      "sha256": "qhHLD/f3SXPXUQijLYISDFpXMkAf/Ol33XDJTBc3a5s="
     }
   },
   "dev-2025-10": {
     "x86_64-linux": {
       "url": "https://github.com/DanielGavin/ols/releases/download/dev-2025-10/ols-x86_64-unknown-linux-gnu.zip",
       "sha256": "n4S/kczDPDgL8RM2g500FKMgGXvlLppis+Zh3crtdQc="
+    },
+    "aarch64-linux": {
+      "url": "https://github.com/DanielGavin/ols/releases/download/dev-2025-10/ols-arm64-unknown-linux-gnu.zip",
+      "sha256": "9DIjg34khXBvRpZzfc0komgDtBRCMGWF8v/ZCF/q4gc="
     }
   },
   "dev-2025-09": {
     "x86_64-linux": {
       "url": "https://github.com/DanielGavin/ols/releases/download/dev-2025-09/ols-x86_64-unknown-linux-gnu.zip",
       "sha256": "YL/s7nOzFTKGfFo6Kq4P8fDepRvFxA8OP+yh7zNSDlQ="
+    },
+    "aarch64-linux": {
+      "url": "https://github.com/DanielGavin/ols/releases/download/dev-2025-09/ols-arm64-unknown-linux-gnu.zip",
+      "sha256": "HyVUqE+Zw6Lni/8+daepeC1kJJYXH4J5wm22cBbfdwM="
     }
   },
   "nightly": {
     "x86_64-linux": {
       "url": "https://github.com/DanielGavin/ols/releases/download/nightly/ols-x86_64-unknown-linux-gnu.zip",
-      "sha256": "ZT/GXxxTKFSRgw9ej0a/w8J5Vv0UPURtRMEr/WPUrgc="
+      "sha256": "2Owy0DBevnoaj0QpjuKMd9Rr036h1ONt8xC5ZZzVVMo="
+    },
+    "aarch64-linux": {
+      "url": "https://github.com/DanielGavin/ols/releases/download/nightly/ols-arm64-unknown-linux-gnu.zip",
+      "sha256": "vacp2IrRAf49t8S92RdjoecEe4hYWwWdVNxChtGkeTw="
     }
   }
 }
