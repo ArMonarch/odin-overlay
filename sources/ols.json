@@ -200,19 +200,19 @@
   "nightly": {
     "x86_64-linux": {
       "url": "https://github.com/DanielGavin/ols/releases/download/nightly/ols-x86_64-unknown-linux-gnu.zip",
-      "sha256": "9ke0dUKtExw9Wt1xppXcI4TUXp8EcNYOdvvGuWK7Z1I="
+      "sha256": "YkbdPZn+SZ+CFlxY3IGSRP+k6IAAg59YlA4LMgqv+WY="
     },
     "aarch64-linux": {
       "url": "https://github.com/DanielGavin/ols/releases/download/nightly/ols-arm64-unknown-linux-gnu.zip",
-      "sha256": "2bKe5/p4gRXDA2rRmKM9pTpBORi81DdwsQMbjojgBPQ="
+      "sha256": "l7QBcLFDxnfomnK47qwZrogpTzrnLheduAf9Ngn8Y/Y="
     },
     "x86_64-darwin": {
       "url": "https://github.com/DanielGavin/ols/releases/download/nightly/ols-x86_64-darwin.zip",
-      "sha256": "XVCD/1DwCOD/Q1zQ7RIL5MobP+DD2LmYCRe1KghwwSs="
+      "sha256": "pqXESlOQDjPERswgFQ/fxf6XvtIflaCl85gHrJd68U8="
     },
     "aarch64-darwin": {
       "url": "https://github.com/DanielGavin/ols/releases/download/nightly/ols-arm64-darwin.zip",
-      "sha256": "wdEdza+4r9tIp1/ozw+2KLDWnl78Jp5CSSHHFkZJax0="
+      "sha256": "8F5cyjMwEWhbJGH9vtiyETs2bE/GkCB63KMbqIvXO/8="
     }
   }
 }

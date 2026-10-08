@@ -1,4 +1,18 @@
 {
+  "dev-2026-10": {
+    "x86_64-linux": {
+      "url": "https://github.com/odin-lang/Odin/releases/download/dev-2026-10/odin-linux-amd64-dev-2026-10.tar.gz",
+      "sha256": "01ls2s6lipl2z1s9rax54pbcxymxgj40anfqpxdwvrwcbxj22i6p"
+    },
+    "aarch64-linux": {
+      "url": "https://github.com/odin-lang/Odin/releases/download/dev-2026-10/odin-linux-arm64-dev-2026-10.tar.gz",
+      "sha256": "0hvgln03h0cz7702damxycrw2sy45jnqbia37ai8q6rqqr424ly4"
+    },
+    "aarch64-darwin": {
+      "url": "https://github.com/odin-lang/Odin/releases/download/dev-2026-10/odin-macos-arm64-dev-2026-10.tar.gz",
+      "sha256": "1mjmav4s03620kk0b0l65m4r4aqaw7v4x2rn6iyxaylxjmcb07jh"
+    }
+  },
   "dev-2026-09": {
     "x86_64-linux": {
       "url": "https://github.com/odin-lang/Odin/releases/download/dev-2026-09/odin-linux-amd64-dev-2026-09.tar.gz",
