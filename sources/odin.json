@@ -1,4 +1,32 @@
 {
+  "dev-2026-11a": {
+    "x86_64-linux": {
+      "url": "https://github.com/odin-lang/Odin/releases/download/dev-2026-11a/odin-linux-amd64-dev-2026-11a.tar.gz",
+      "sha256": "1b7zyd8k7ba180brrp4063kmlw3h8armbxma94gi7pxxild0vvm9"
+    },
+    "aarch64-linux": {
+      "url": "https://github.com/odin-lang/Odin/releases/download/dev-2026-11a/odin-linux-arm64-dev-2026-11a.tar.gz",
+      "sha256": "1lrb4r4y79cmqcvwz09rn69bxngvhmsrbkvv4d421v009xbcf6b7"
+    },
+    "aarch64-darwin": {
+      "url": "https://github.com/odin-lang/Odin/releases/download/dev-2026-11a/odin-macos-arm64-dev-2026-11a.tar.gz",
+      "sha256": "1h8sl018bih6r467m0d2vb0y7d2qwmx9rhi8wc4bpj4asp3dsnyv"
+    }
+  },
+  "dev-2026-11": {
+    "x86_64-linux": {
+      "url": "https://github.com/odin-lang/Odin/releases/download/dev-2026-11/odin-linux-amd64-dev-2026-11.tar.gz",
+      "sha256": "1b7zyd8k7ba180brrp4063kmlw3h8armbxma94gi7pxxild0vvm9"
+    },
+    "aarch64-linux": {
+      "url": "https://github.com/odin-lang/Odin/releases/download/dev-2026-11/odin-linux-arm64-dev-2026-11.tar.gz",
+      "sha256": "1lrb4r4y79cmqcvwz09rn69bxngvhmsrbkvv4d421v009xbcf6b7"
+    },
+    "aarch64-darwin": {
+      "url": "https://github.com/odin-lang/Odin/releases/download/dev-2026-11/odin-macos-arm64-dev-2026-11.tar.gz",
+      "sha256": "1h8sl018bih6r467m0d2vb0y7d2qwmx9rhi8wc4bpj4asp3dsnyv"
+    }
+  },
   "dev-2026-10": {
     "x86_64-linux": {
       "url": "https://github.com/odin-lang/Odin/releases/download/dev-2026-10/odin-linux-amd64-dev-2026-10.tar.gz",

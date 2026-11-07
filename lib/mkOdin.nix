@@ -12,7 +12,7 @@ stdenvNoCC.mkDerivation {
   pname = "odin";
   inherit version;
 
-  src = builtins.fetchTarball {
+  src = fetchTarball {
     inherit url sha256;
   };
 
